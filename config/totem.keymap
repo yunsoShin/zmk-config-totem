@@ -132,8 +132,8 @@ label= "SYM"                               ;
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
                 &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT       &kp CARET       &kp AMPS    &kp KP_MULTIPLY &kp MINUS   &kp EQUAL      
-                &kp LEFT   &kp UP   &kp W       &trans      &trans              &kp RBKT        &kp GRAVE   &kp RA(N5)     &kp PIPE    &kp BSLH 
-    &kp TAB     &trans      &kp DOWN &kp RIGHT      &trans      &trans          &kp RPAR        &trans      &trans         &trans      &kp SLASH   &kp LGUI         
+                &kp LEFT   &kp UP   &kp W       &trans          &kp LBKT        &kp RBKT     &kp GRAVE   &kp RA(N5)     &kp PIPE    &kp BSLH 
+    &kp TAB     &trans      &kp DOWN &kp RIGHT      &trans      &kp LPAR        &kp SQT        &trans      &trans         &trans      &kp SLASH   &kp LGUI         
                                         &trans      &trans      &mo ADJ         &kp LSHFT       &trans      &trans      
                         >;
                 };
