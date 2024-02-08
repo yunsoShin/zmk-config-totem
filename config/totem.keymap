@@ -131,10 +131,10 @@ label= "SYM"                               ;
  bindings = <
 // ╷           ╷           ╷           ╷           ╷           ╷           ╷   ╷           ╷           ╷           ╷           ╷           ╷           ╷
 
-                &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT       &kp CARET   &kp AMPS    &kp KP_MULTIPLY   &kp SQT     &kp P       
-                &kp GRAVE   &trans      &kp W      &trans      &trans          &kp C_MUTE  &kp LS(RA(N4)) &kp RA(N5) &kp RA(N4)   &kp BSLH 
-    &kp TAB     &trans      &trans      &trans      &trans      &trans          &kp C_VOL_DN &kp C_VOL_UP &kp C_PREV &kp C_NEXT  &trans   &kp LGUI         
-                                        &trans      &trans      &mo ADJ         &kp LSHFT       &trans    &trans      
+                &kp EXCL    &kp AT      &kp HASH    &kp DLLR    &kp PRCNT       &kp CARET       &kp AMPS           &kp KP_MULTIPLY &kp MINUS   &kp EQUAL      
+                &kp GRAVE   &kp SLASH   &kp W       &trans      &trans          &kp RBKT        &kp LS(RA(N4))      &kp RA(N5)     &kp PIPE    &kp BSLH 
+    &kp TAB     &trans      &trans      &trans      &trans      &trans          &kp RPAR        &trans      &trans  &trans         &kp SLASH   &kp LGUI         
+                                        &trans      &trans      &mo ADJ         &kp LSHFT       &trans      &trans      
                         >;
                 };
 
